@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hapjeong-nightlife-note.karaoke-gyodae-hub.xyz/sitemap.xml
